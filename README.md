@@ -25,9 +25,6 @@ O site foi criado para oferecer aos visitantes informações claras sobre horár
 - pages;
 - img;
 - css;
-## 📸 Prévia do Site
-
-![Prévia do site](img/10601.jpg)
 
 ## 📅 Informações da Clínica
 
@@ -39,3 +36,7 @@ O site foi criado para oferecer aos visitantes informações claras sobre horár
 
 Este projeto é de uso educacional e não possui fins comerciais.  
 © 2025 - Todos os Direitos Autorais Reservados.
+
+## Ideia:
+
+Minha ideia foi praticar mais o HTML e explorando um pouco do CSS. 
