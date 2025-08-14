@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home | Clínica +Saúde</title>
+    <link rel="stylesheet" href="../css/base.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="menu">
+        <p style="color: white;">MENU</p>
+        <ul>
+          <li><a href="../pages/index.html">Início</a></li>
+          <li><a href="../pages/sobre.html">Sobre</a></li>
+          <li><a href="../pages/horario.html">Atendimentos</a></li>
+          <li><a href="../pages/contato.html">Contato</a></li>
+        </ul>
+      </div>
+
+      <div class="main">
+        <div class="header" style="background-color: #f5f5f5;">
+          <img src="../img/v987-18a.jpg" width="300px" alt="">
+        </div>
+            
+        <div class="content">
+          <h1>Entre contato com a gente:</h1>
+
+          <p>Telefone / Whatsapp : <a href="https://wa.me/5527999999999" target="_blank">(27) 9999-9999</a></p>
+          <p>Endereço: Rua Vieira Souto, 112, Areinha, Viana-ES</p>
+
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3740.1665756314615!2d-40.433159323845175!3d-20.37602065235415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xb838f7c98655db%3A0x993437c1eb7f3171!2sAv.%20Vi%C3%AAira%20Souto%2C%20112%20-%20Areinha%2C%20Viana%20-%20ES%2C%2029135-000!5e0!3m2!1spt-BR!2sbr!4v1755118325458!5m2!1spt-BR!2sbr"
+            width="600"
+            height="450"
+            style="border: 0"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+
+          <form action="#" method="post" target="_blank">
+            <h2>Formulário</h2>
+            <fieldset>
+              <label for="name">Nome: </label
+              ><input type="text" id="name" name="name" /><br /><br />
+
+              <label for="email">Email: </label
+              ><input type="email" id="email" name="email" /><br /><br />
+
+              <label for="assunto">Assunto: </label
+              ><select>
+                <option value="..." selected>...</option>
+                <option value="agendamento">Agendamento</option>
+                <option value="curriculo">Currículo</option>
+                <option value="aviso">Aviso</option>
+                <option value="outros">Outros</option>
+              </select><br /><br />
+
+              <label>Mensagem:</label>
+              <textarea name="" id=""></textarea>
+              <br /><br />
+
+              <label for="file">Deixe seu arquivo: </label> <input type="file" id="file" name="file">
+            </fieldset>
+
+            <button type="submit">Enviar</button>
+            <button type="reset">Limpar</button>
+          </form>
+        </div>
+
+        <div class="footer">
+          <span>&copy; 2025 - Todos os Direitos Autorais.</span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
