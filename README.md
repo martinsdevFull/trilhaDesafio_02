@@ -39,4 +39,4 @@ Este projeto é de uso educacional e não possui fins comerciais.
 
 ## Ideia:
 
-Minha ideia foi praticar mais o HTML e explorando um pouco do CSS. 
+Minha ideia foi praticar mais o HTML e explorando um pouco do CSS. Mas o projeto tera a continuidade de melhoria, deixando mais interessante.
