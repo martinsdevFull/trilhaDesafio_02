@@ -13,7 +13,7 @@ body {
     width: 1200px;
     display: flex;
     margin: 0 auto;
-    background-color: aquamarine;
+    background-color: rgb(160, 245, 217);
 }
 .main {
     display: flex;
